@@ -80,7 +80,7 @@ Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
 tensorboard==2.2.1
-tensorboard-plugin-wit==1.8.0
+tensorboard-plugin-wit==1.6.0.post2
 tensorboardcolab==0.0.22
 tensorflow==2.6.0
 tensorflow-estimator==2.2.0
